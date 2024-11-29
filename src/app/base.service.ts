@@ -14,8 +14,8 @@ export class BaseService {
   getArts () {
     return this.http.get(this.url)
   }
-  updateArt(index:any) {
-    
+  updateArt(newArt:any) {
+    this.http.put(this.url+newArt.id,newArt).subscribe()
   }
   deleteArt(index:any) {
 
