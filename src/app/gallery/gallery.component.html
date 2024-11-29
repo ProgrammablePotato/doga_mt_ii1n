@@ -1,0 +1,28 @@
+<!-- {{arts|json}} -->
+<div class="container">
+    <div *ngFor="let art of arts" class="row">
+        <div class="col">
+            <div class="name">
+                {{art.name}}
+            </div>
+            <div class="sport">
+                Sport: {{art.sport}}
+            </div>
+            <div class="brand">
+                Brand: {{art.brand}}
+            </div>
+            <div class="price">
+                $ {{art.price}}
+            </div>
+        </div>
+        
+        <div class="col imagecol">
+            <img [src]="art.image_url">
+        </div>
+        <div class="buttoncol">
+            <button class="btn btn-primary" (click)="editArt(art.id)">Edit</button>
+            <br>
+            <button class="btn btn-danger" (click)="deleteArt(art.id)">Delete</button>
+        </div>
+    </div>
+</div>

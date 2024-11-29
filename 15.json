@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1149,
+        "name": "Eve",
+        "sport": "Unknown",
+        "brand": "BrandB",
+        "price": 129.94,
+        "image_url": "https://picsum.photos/seed/3675/150"
+    },
+    {
+        "id": 8707,
+        "name": "Alice",
+        "sport": "Unknown",
+        "brand": "BrandC",
+        "price": 13.9,
+        "image_url": "https://picsum.photos/seed/9362/150"
+    },
+    {
+        "id": 5461,
+        "name": "Bob",
+        "sport": "Unknown",
+        "brand": "BrandA",
+        "price": 713.46,
+        "image_url": "https://picsum.photos/seed/5692/150"
+    },
+    {
+        "id": 4716,
+        "name": "Charlie",
+        "sport": "Unknown",
+        "brand": "BrandC",
+        "price": 849.01,
+        "image_url": "https://picsum.photos/seed/4536/150"
+    },
+    {
+        "id": 5789,
+        "name": "Hank",
+        "sport": "Unknown",
+        "brand": "BrandA",
+        "price": 966.69,
+        "image_url": "https://picsum.photos/seed/7828/150"
+    },
+    {
+        "id": 9867,
+        "name": "Eve",
+        "sport": "Unknown",
+        "brand": "BrandC",
+        "price": 560.01,
+        "image_url": "https://picsum.photos/seed/5398/150"
+    },
+    {
+        "id": 4740,
+        "name": "Eve",
+        "sport": "Unknown",
+        "brand": "BrandC",
+        "price": 848.69,
+        "image_url": "https://picsum.photos/seed/3098/150"
+    },
+    {
+        "id": 7644,
+        "name": "Hank",
+        "sport": "Unknown",
+        "brand": "BrandC",
+        "price": 517.82,
+        "image_url": "https://picsum.photos/seed/5997/150"
+    },
+    {
+        "id": 2417,
+        "name": "Alice",
+        "sport": "Unknown",
+        "brand": "BrandA",
+        "price": 362.63,
+        "image_url": "https://picsum.photos/seed/2285/150"
+    },
+    {
+        "id": 6791,
+        "name": "Charlie",
+        "sport": "Unknown",
+        "brand": "BrandC",
+        "price": 929.96,
+        "image_url": "https://picsum.photos/seed/6455/150"
+    },
+    {
+        "id": 9621,
+        "name": "Alice",
+        "sport": "Unknown",
+        "brand": "BrandB",
+        "price": 800.51,
+        "image_url": "https://picsum.photos/seed/6543/150"
+    },
+    {
+        "id": 4534,
+        "name": "Charlie",
+        "sport": "Unknown",
+        "brand": "BrandB",
+        "price": 139.85,
+        "image_url": "https://picsum.photos/seed/9387/150"
+    },
+    {
+        "id": 4189,
+        "name": "Dave",
+        "sport": "Unknown",
+        "brand": "BrandC",
+        "price": 264.74,
+        "image_url": "https://picsum.photos/seed/1108/150"
+    },
+    {
+        "id": 7885,
+        "name": "Charlie",
+        "sport": "Unknown",
+        "brand": "BrandC",
+        "price": 730.59,
+        "image_url": "https://picsum.photos/seed/2224/150"
+    },
+    {
+        "id": 9287,
+        "name": "Eve",
+        "sport": "Unknown",
+        "brand": "BrandA",
+        "price": 213.1,
+        "image_url": "https://picsum.photos/seed/2131/150"
+    },
+    {
+        "id": 7000,
+        "name": "Charlie",
+        "sport": "Unknown",
+        "brand": "BrandA",
+        "price": 63.8,
+        "image_url": "https://picsum.photos/seed/4958/150"
+    },
+    {
+        "id": 8446,
+        "name": "Charlie",
+        "sport": "Unknown",
+        "brand": "BrandA",
+        "price": 155.34,
+        "image_url": "https://picsum.photos/seed/4723/150"
+    },
+    {
+        "id": 4232,
+        "name": "Alice",
+        "sport": "Unknown",
+        "brand": "BrandC",
+        "price": 195.11,
+        "image_url": "https://picsum.photos/seed/6335/150"
+    },
+    {
+        "id": 2747,
+        "name": "Hank",
+        "sport": "Unknown",
+        "brand": "BrandC",
+        "price": 541.79,
+        "image_url": "https://picsum.photos/seed/9563/150"
+    },
+    {
+        "id": 5004,
+        "name": "Bob",
+        "sport": "Unknown",
+        "brand": "BrandC",
+        "price": 512.69,
+        "image_url": "https://picsum.photos/seed/8369/150"
+    }
+]
